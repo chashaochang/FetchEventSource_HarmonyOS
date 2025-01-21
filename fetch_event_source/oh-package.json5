@@ -4,7 +4,7 @@
   "description": "前端库fetch_event_source的鸿蒙版",
   "main": "Index.ets",
   "keywords": ["fetch","SSE","stream","AI"],
-  "author": "",
+  "author": "叉烧畅",
   "license": "MIT License",
   "homepage": 'https://github.com/chashaochang',
   "repository":'https://github.com/chashaochang/FetchEventSource_HarmonyOS',
