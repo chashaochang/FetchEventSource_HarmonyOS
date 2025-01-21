@@ -1,0 +1,13 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "fetch_event_source": "file:../fetch_event_source",
+    "@luvi/lv-markdown-in": "^2.0.15"
+  }
+}
+

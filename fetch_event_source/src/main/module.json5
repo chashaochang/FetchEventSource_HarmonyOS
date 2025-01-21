@@ -1,0 +1,11 @@
+{
+  "module": {
+    "name": "fetch_event_source",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet",
+      "2in1"
+    ]
+  }
+}
