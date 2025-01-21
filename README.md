@@ -6,7 +6,7 @@
 
 ### 效果图
 
-![效果图](/fetch_event_source/example/example.gif)
+<img src="fetch_event_source/example/example.gif" width="200" alt="效果图">
 
 ## 安装
 

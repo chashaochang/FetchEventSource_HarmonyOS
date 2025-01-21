@@ -6,7 +6,7 @@
 
 ### 效果图
 
-![效果图](example/example.gif)
+<img src="example/example.gif" width="200" alt="效果图">
 
 ## 安装
 
